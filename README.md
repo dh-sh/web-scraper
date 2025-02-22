@@ -2,12 +2,15 @@
 
 This web scraper is an automated tool designed to extract data from websites. It navigates web pages, retrieves relevant content, and processes the extracted information for various uses, such as data analysis, research, and business insights.
 In this project, the web scraper:
+
+
 ✅ Fetches web pages using Selenium, simulating a browser.
 ✅ Extracts relevant content (like text, links, or tables) using BeautifulSoup.
 ✅ Cleans and processes data for better readability. 
 ✅Uses ollam’s Llama 3.1 for getting info easily.
 ✅ Displays results in a user-friendly Streamlit web app where users can enter a URL, scrape content, and view stored data.
 Steps to Execute the Scraper Project
+
 Install Required Software
 •	Install Python
 •	Install Google Chrome and ChromeDriver- https://developer.chrome.com/docs/chromedriver/downloads [make sure the chrome version and chromedriver version are the same ]
