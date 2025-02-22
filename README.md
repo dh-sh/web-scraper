@@ -5,9 +5,13 @@ In this project, the web scraper:
 
 
 ✅ Fetches web pages using Selenium, simulating a browser.
+
 ✅ Extracts relevant content (like text, links, or tables) using BeautifulSoup.
+
 ✅ Cleans and processes data for better readability. 
+
 ✅Uses ollam’s Llama 3.1 for getting info easily.
+
 ✅ Displays results in a user-friendly Streamlit web app where users can enter a URL, scrape content, and view stored data.
 Steps to Execute the Scraper Project
 
