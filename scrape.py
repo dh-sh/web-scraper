@@ -7,7 +7,7 @@ import os
 
 load_dotenv()
 
-CHROMEDRIVER_PATH = "./chromedriver.exe"  # Update this with the correct path
+CHROMEDRIVER_PATH = "./chromedriver.exe"  
 
 def scrape_website(website):
     print("Launching ChromeDriver...")
