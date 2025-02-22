@@ -16,15 +16,30 @@ In this project, the web scraper:
 Steps to Execute the Scraper Project
 
 Install Required Software
+
 •	Install Python
+
 •	Install Google Chrome and ChromeDriver- https://developer.chrome.com/docs/chromedriver/downloads [make sure the chrome version and chromedriver version are the same ]
+
+
 Install Required Python Libraries
+
 •	Open Command Prompt and run: 
+
 •	pip install requirements.txt
+
+
 Run the Web Scraper
+
 •	Install all the python dependencies.
+
 •	Make sure script.py, scrape.py, main.py and the chromedriver are in the same folder.
+
+
 Start the Streamlit Web App
+
 •	In the terminal of vscode, run: 
+
 •	streamlit run main.py
+
 •	This opens a web interface where you can enter a URL, scrape it, and view it.
