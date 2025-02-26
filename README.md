@@ -21,6 +21,8 @@ Install Required Software
 
 •	Install Google Chrome and ChromeDriver- https://developer.chrome.com/docs/chromedriver/downloads [make sure the chrome version and chromedriver version are the same ]
 
+• Install llama3.1	
+
 
 Install Required Python Libraries
 
